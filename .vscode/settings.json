@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Exercise1"
+    ],
+    "python.analysis.autoImportCompletions": false
+}
